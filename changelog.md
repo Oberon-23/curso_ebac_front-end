@@ -1,5 +1,4 @@
 
-## [0.0.1] - 2023-12-20 (ALTERADO) - ADDED CHANGELOG.MD
+01-01-2024
 
- Adicionado o versionamento, arquivo txt e uma nova branch chamada "exercicio_git".
-
+Exercício CSS, adicionando duas seções no layout: entretenimento e tecnologia.
